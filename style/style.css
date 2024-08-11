@@ -1,0 +1,237 @@
+/* Banner part starts */
+header {
+    margin: 0 auto;
+    max-width: 1550px;
+    width: 90%;
+    margin-top: 70px;
+
+
+}
+
+.banner-image-and-text-container {
+    position: relative;
+    display: flex;
+    margin: 0 auto;
+    max-width: 1550px;
+    width: 90%;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.banner-image{
+             
+            
+}
+
+.new-year-title {
+    position: absolute;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+   
+}
+
+.new-year-celebration{
+    font-size: 32px;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+    align-items: center;
+    
+    
+}
+
+.new-year-subtitle{
+    font-size:75px ;
+    font-weight: 600;
+    color: #FFFFFF;
+   text-align: center;
+   align-items: center;
+   
+   
+}
+
+/* discount part starts */
+
+.discount-part-container{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.discount-off{
+    margin-top: 120px;
+     font-size: 88px;
+     font-weight: 700;
+     color: #FF0000;
+}
+
+.deals-are-better{
+    font-size: 25px;
+    color:#FF0000 ;
+}
+
+.all-catagories{
+    font-size: 48px;
+    font-weight: 700;
+    color: #070211;
+}
+
+.new-year-photo{
+    width: 800px;
+    height: 500px;
+}
+
+/* victory starts */
+
+
+.midnight-party-data-container{
+margin: 0 auto;
+max-width: 1550px;
+width: 90%;
+
+justify-content: center;
+position: relative;
+display: flex;
+}
+
+.midnight-party-text-container{
+    position: absolute;
+    padding-right: 500px;
+    padding-top: 50px;
+}
+
+.vector-image{
+    width: 	1320px;
+    height: 550px;
+}
+
+.midnight-party-title{
+    font-size: 64px;
+    color: #FFFFFF;
+}
+
+.midnight-party-sub-title{
+    color:rgba(255, 255, 255, 0.8);
+}
+
+.midnight-party-btn{
+    font-size: 20px;
+    border: none;
+    background: none;
+    color: #FFFFFF;
+    margin-top: 20px;
+}
+
+.midnight-second-pic{
+    width: 300px;
+    height: 440px;
+}
+
+.midnight-second-pic-container{
+    position: absolute;
+    margin-top: 65px;
+    margin-left: 850px;
+    margin-right: 150px;
+}
+
+.place-time-and-btn-container{
+    margin: 0 auto;
+    height: 382px;
+    max-width: 1550px;
+    background: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%);
+    align-items: center;
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 100px;
+    border-radius: 16px;
+}
+
+.place-date-time{
+    color: #FF0000;
+}
+
+.place-time-title{
+    font-size: 32px;
+
+}
+
+.join-now-btn{
+    width: 165px;
+    height: 56px;
+    font-size: 20px;
+    border: none;
+    border-radius: 8px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    margin-top: 45px;
+}
+
+/* coming soon starts */
+
+.coming-soon-image-and-text-container{
+    width: 90%;
+    max-width: 1550px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.best-offer-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #FF0000;
+}
+
+.coming-soon-title{
+    font-size: 48px;
+    font-weight: 700;
+
+}
+
+.coming-soon-sub-title{
+    color: rgba(7, 2, 17, 0.6);
+}
+
+.ellipse-image{
+    padding: 20px;
+}
+
+.ellipse-image-border{
+    border: 10px solid red;
+    border-radius: 99%;
+   
+}
+
+.chobbish-title{
+    font-size: 48px;
+    font-weight: 700;
+    color: red;
+}
+
+.new-year-chobbish{
+    width: 140px;
+    height: 140px;
+}
+
+.coming-soon-first-div{
+    width: 430px;
+    padding-left: 150px;
+}
+
+/* Special deal starts */
+ 
+.functional-title{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.holiday-title{
+    font-size: 72px;
+    font-weight: 700;
+    
+}
