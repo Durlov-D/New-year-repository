@@ -71,6 +71,7 @@ header {
 .deals-are-better{
     font-size: 25px;
     color:#FF0000 ;
+    margin-bottom: -30px;
 }
 
 .all-catagories{
@@ -111,6 +112,7 @@ display: flex;
 .midnight-party-title{
     font-size: 64px;
     color: #FFFFFF;
+    margin-bottom: -10px;
 }
 
 .midnight-party-sub-title{
@@ -224,14 +226,120 @@ display: flex;
 }
 
 /* Special deal starts */
+
+.special-deal-all-data-container{
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1550px;
+    text-align: center;
+    align-items: center;
+}
  
 .functional-title{
     font-size: 24px;
     font-weight: 600;
+    margin-bottom: -50px;
 }
 
 .holiday-title{
     font-size: 72px;
     font-weight: 700;
+    margin-bottom: -5px;
+
+}
+
+.holiday-span{
+    color: #FF0000;
+}
+
+.holiday-sub-title{
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(7, 2, 17, 0.6);
+    margin-bottom: 50px;
+}
+
+.Rectangle-image-container{
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1550px;
+    text-align: center;
+    align-items: center;
+    margin-top: 500px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+}
+
+.Rectangle-red-image{
+    width: 100%;
+    height: 230px;
+}
+.two-images-container{
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 420px;
+  gap: 70px;
+}
+
+.surprise-box{
+    width: 674px;
+    height: 570px;
     
+}
+
+.discont-coupon{
+    width: 305px;
+    height: 305px; 
+}
+
+/* Best gift starts */
+
+.best-gift-and-images-container{
+    margin: 0 auto;
+    width: 90%;
+    max-width: 1550px;
+    margin-top: 110px;
+}
+
+.best-gift-title{
+    font-size: 24px;
+    font-weight: 500;
+    color: #FF0000;
+}
+
+.awesome-portfolio-title{
+    font-size: 48px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+
+.awesome-portfolio-sub-title{
+    margin-top: -20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: rgba(7, 2, 17, 0.6);
+}
+
+.Rectangle-images-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    gap: 20px;
+    width: 100%;
+    margin-top: 30px;
+}
+
+.Rectangle-images{
+    width: 550px;
+    height: 450px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1550px;
 }
