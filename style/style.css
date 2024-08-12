@@ -124,7 +124,7 @@ display: flex;
     border: none;
     background: none;
     color: #FFFFFF;
-    margin-top: 20px;
+    margin-top: 70px;
 }
 
 .midnight-second-pic{
@@ -349,7 +349,7 @@ display: flex;
 
 .subscribe-and-details{
     margin: 0 auto;
-    width: 1350px;
+    width: 80%;
     max-width: 1550px;
     background-color: #FEF2FF;
     align-items: center;
@@ -380,3 +380,92 @@ display: flex;
     padding: 30px;
     margin-bottom: 50px;
 }
+
+/* footer starts */
+footer{
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgba(7, 2, 17, 1);
+    height: 600px;
+}
+
+.footer-all-data-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 1550px;
+}
+
+.big-buildings-title{
+   
+}
+
+.building-title-text{
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: 500;
+    margin-left: -100px;
+    padding-top: 60px;
+}
+
+.phone-number-and-website{
+    color: #FFFFFF;
+    
+}
+
+.icons-and-number-and-website{
+    
+}
+
+.icon-number-one{
+    width: 20px;
+    height: 20px;
+    padding-top: 20px;
+}
+
+/* .hr-class{
+    width: 90%;
+    margin: 0 auto;
+    height: 1%;
+} */
+ hr{
+    width: 90%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+ }
+
+ .all-icons-container{
+    margin: 0 auto;;
+    width: 90%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 40px;
+    
+ }
+
+ .icons-images{
+    width: 64px;
+    height: 64px;
+    gap: 20px;
+    margin: 10px;
+ }
+
+ .hr-class-two{
+    margin-top: 45px;
+ }
+
+ .Unsubscribe-part{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .Unsubscribe-title{
+   color: #FFFFFF;
+   font-size: 24px;
+   font-weight: 600;
+   margin-top: 50px;
+ }
