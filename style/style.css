@@ -391,10 +391,10 @@ footer{
 
 .footer-all-data-container{
     display: flex;
-    justify-content: space-between;
     margin: 0 auto;
     width: 80%;
     max-width: 1550px;
+    justify-content: space-between;
 }
 
 .big-buildings-title{
@@ -458,7 +458,8 @@ footer{
 
  .Unsubscribe-part{
     margin: 0 auto;
-    width: 90%;
+    width: 85%;
+    max-width: 1550px;
     display: flex;
     justify-content: space-between;
  }
@@ -468,4 +469,6 @@ footer{
    font-size: 24px;
    font-weight: 600;
    margin-top: 50px;
+   margin-left: -75px;
+   
  }
